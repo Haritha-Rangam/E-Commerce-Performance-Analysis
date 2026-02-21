@@ -17,4 +17,6 @@ To analyze Amazon sales data and evaluate overall sales, profit, customer trends
 - What is the monthly and yearly sales trend (YTD, MTD, QTD)?
 - Which region has the highest number of returned orders?
 
--<a href="https://github.com/Haritha-Rangam/E-Commerce-Performance-Analysis/blob/main/global_superstore%20Assignment%20-%202.xlsx">Dataset</a>
+-Report URL <a href="https://github.com/Haritha-Rangam/E-Commerce-Performance-Analysis/blob/main/project%20report%20.pbix">View Dashboard</a>
+
+
