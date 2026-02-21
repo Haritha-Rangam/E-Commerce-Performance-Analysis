@@ -50,6 +50,11 @@ To analyze e-commerce sales data and evaluate overall business performance inclu
 - Data Visualization
 - Power BI Services
 
+## DAX Functions
+
+<img width="1309" height="736" alt="Screenshot 2026-02-21 204221" src="https://github.com/user-attachments/assets/df081c08-d92b-4f3d-8d4c-b3fc833d2ea2" />
+<img width="1308" height="724" alt="Screenshot 2026-02-21 204241" src="https://github.com/user-attachments/assets/ec2b215b-0d3e-404c-8ebf-8c1ec96b1e50" />
+
 ## Final Conclusion
 To improve overall profitability and sustain revenue growth, the business should focus on promoting high-margin categories like Technology and optimizing pricing strategies for loss-making sub-categories such as Tables. Strengthening Standard Class shipping performance and leveraging high-value customer segments can further enhance sales. Additionally, regional performance insights and customer behavior analysis can be used to design targeted marketing strategies and improve operational efficiency
 
