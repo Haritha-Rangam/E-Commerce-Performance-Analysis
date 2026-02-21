@@ -33,7 +33,7 @@ To analyze e-commerce sales data and evaluate overall business performance inclu
 <img width="1915" height="902" alt="Screenshot 2026-02-21 191833" src="https://github.com/user-attachments/assets/275547d5-c26c-4177-a56f-ae61e6df0a57" />
 <img width="1918" height="915" alt="Screenshot 2026-02-21 192039" src="https://github.com/user-attachments/assets/d9fe2314-e44a-46f2-9104-6508cb536a16" />
 
-##Project Insight
+## Project Insight
 
 - The Consumer segment contributes the highest share of total revenue (~51%).
 - Standard Class shipping generates the maximum sales and profit.
@@ -41,6 +41,11 @@ To analyze e-commerce sales data and evaluate overall business performance inclu
 - Certain sub-categories such as Tables contribute negatively to overall profitability.
 - Weekend profit margin (11.83%) is slightly higher compared to weekday margin (11.52%).
 - Strong Year-over-Year growth (51.54%) indicates consistent business performance improvement.
+
+## Final Conclusion
+To improve overall profitability and sustain revenue growth, the business should focus on promoting high-margin categories like Technology and optimizing pricing strategies for loss-making sub-categories such as Tables. Strengthening Standard Class shipping performance and leveraging high-value customer segments can further enhance sales. Additionally, regional performance insights and customer behavior analysis can be used to design targeted marketing strategies and improve operational efficiency
+
+
 
 
 
