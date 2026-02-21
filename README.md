@@ -42,6 +42,14 @@ To analyze e-commerce sales data and evaluate overall business performance inclu
 - Weekend profit margin (11.83%) is slightly higher compared to weekday margin (11.52%).
 - Strong Year-over-Year growth (51.54%) indicates consistent business performance improvement.
 
+## Tools & Technologies used 
+- Power BI  
+- DAX  
+- Power Query  
+- Data Modeling  
+- Data Visualization
+- Power BI Services
+
 ## Final Conclusion
 To improve overall profitability and sustain revenue growth, the business should focus on promoting high-margin categories like Technology and optimizing pricing strategies for loss-making sub-categories such as Tables. Strengthening Standard Class shipping performance and leveraging high-value customer segments can further enhance sales. Additionally, regional performance insights and customer behavior analysis can be used to design targeted marketing strategies and improve operational efficiency
 
