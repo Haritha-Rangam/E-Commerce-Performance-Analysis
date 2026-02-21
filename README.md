@@ -19,4 +19,11 @@ To analyze Amazon sales data and evaluate overall sales, profit, customer trends
 
 -Report URL <a href="https://github.com/Haritha-Rangam/E-Commerce-Performance-Analysis/blob/main/project%20report%20.pbix">View Dashboard</a>
 
+## Process
+- Cleaned and transformed the dataset using Power Query.
+- Created KPI measures using DAX for sales, profit, quantity, and growth analysis.
+- Built interactive dashboards with filters and drill-down functionality.
+- Implemented time intelligence calculations including YTD, MTD, and YoY performance analysis.
+- Analyzed product, regional, and customer performance to derive business insights.
+
 
